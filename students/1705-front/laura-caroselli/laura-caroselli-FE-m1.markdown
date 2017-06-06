@@ -114,7 +114,7 @@ During our evaluation, Brenna gave Jason and I some more suggestions in how we c
 * [Evaluation Score] (https://github.com/turingschool/front-end-submissions-public/blob/master/1705/mod-1/2DoBox/laura-jason.md)
 
 (feedback)
-
+"Laura, I had a great time working with you on the 2DoBox project.  I feel like given the other stresses of the week we were able to develop a plan and accomplish everything on time and with ease.  I really enjoyed getting to work independent of each other giving me more experience with pull requests.  Thank you for being so detailed in your work.  I learned a great deal watching you restructure the Script syntax and your updates to the HTML with WAI-ARIA were the most detailed that I have seen.  I personally am a fan of getting constructive feed back on things that I could work on.  I would love to give you some, however I have none to give you based on this experience.  Thank you for making the final project of Mod1 enjoyable.  Very well done."
 
 ## D: Professional Skills
 I genuinely appreciate Turing's emphasis on developing professional skills that will suit us well in the workplace and beyond after graduation. 
